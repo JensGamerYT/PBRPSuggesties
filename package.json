@@ -1,0 +1,28 @@
+{
+  "name": "jg_network_bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Jens",
+  "license": "ISC",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.2",
+    "glob": "^7.2.0",
+    "node": "^17.3.0",
+    "node.js": "0.0.1-security",
+    "nodemon": "^2.0.15",
+    "util": "^0.12.4"
+  }
+}
+  
